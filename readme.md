@@ -1,2 +1,2 @@
-##Text
-<b>Reverse a String</b> Enter a string and the program will reverse it and print it out.
+<b><u>Text</u></b> <br/>
+Reverse a String - Enter a string and the program will reverse it and print it out.
